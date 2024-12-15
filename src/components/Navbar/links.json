@@ -1,0 +1,28 @@
+{
+    "links": [
+        {
+            "label": "CSV to JSONL",
+            "href": "/CSVtoJSONL"
+        },
+        {
+            "label": "Import JSNOL to DB",
+            "href": "/ImportJSNOLtoDB"
+        },
+        {
+            "label": "Export to JSNOL",
+            "href": "/JSNOL"
+        },
+        {
+            "label": "Backup DB",
+            "href": "/BackupDB"
+        },
+        {
+            "label": "Check Duplicates",
+            "href": "/CheckDuplicates"
+        },
+        {
+            "label": "Bulk Remove Test",
+            "href": "BRTest"
+        }
+    ]
+}

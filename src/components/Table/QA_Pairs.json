@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "question": "what is your name",
+        "answer": "chaitanya"
+    },
+    {
+        "id": "2",
+        "question": "what is your birthplace",
+        "answer": "hyderabad"
+    },
+    {
+        "id": "3",
+        "question": "what is your height",
+        "answer": "6feet"
+    }
+]
